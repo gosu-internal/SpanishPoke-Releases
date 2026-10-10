@@ -1,0 +1,13 @@
+{
+  "versionCode": 100042,
+  "versionName": "0.1.42",
+  "apkUrl": "https://raw.githubusercontent.com/gosu-internal/SpanishPoke-Releases/main/spanishpoke-100042.apk",
+  "sha256": "3f23eee925378f37463f2c9fcc51ad0fd08370568ed3d7f55c2ed0802c3be297",
+  "byteSize": 19389929,
+  "minSupportedVersionCode": 100000,
+  "releaseNotes": [
+    "«Поле»: a long text sent before pages existed gets its full translation when its page is opened"
+  ],
+  "sourceSha": "f63267b73617de1000f00efbe5cb34c0f0b55709",
+  "publishedAt": "2026-10-10T07:42:20Z"
+}
