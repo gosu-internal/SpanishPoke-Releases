@@ -1,0 +1,13 @@
+{
+  "versionCode": 100047,
+  "versionName": "0.1.47",
+  "apkUrl": "https://raw.githubusercontent.com/gosu-internal/SpanishPoke-Releases/main/spanishpoke-100047.apk",
+  "sha256": "d95b03c9b05e00f5f6b43bf6f049c0c1c62cd6c72605d04ba045c7230bbcb693",
+  "byteSize": 19408529,
+  "minSupportedVersionCode": 100000,
+  "releaseNotes": [
+    "«Исправь ошибку» shows the whole line I said, the wrong words struck out, and where it came from"
+  ],
+  "sourceSha": "61395a288322d6ca3accf19898dec2180a7c9a5e",
+  "publishedAt": "2026-10-13T07:00:30Z"
+}
