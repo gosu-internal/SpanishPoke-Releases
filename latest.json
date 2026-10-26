@@ -1,0 +1,13 @@
+{
+  "versionCode": 100049,
+  "versionName": "0.1.49",
+  "apkUrl": "https://raw.githubusercontent.com/gosu-internal/SpanishPoke-Releases/main/spanishpoke-100049.apk",
+  "sha256": "bce22b73256db30187bbb9f76e2e51c5eeba909aedfdefb4ad092ffbadda0d3c",
+  "byteSize": 19435249,
+  "minSupportedVersionCode": 100000,
+  "releaseNotes": [
+    "Holding the mic with the keyboard open no longer pulls the button away from the finger"
+  ],
+  "sourceSha": "ac71db1b6aa79e4caadfaece84e058f2ec6a20a1",
+  "publishedAt": "2026-10-26T03:11:06Z"
+}
