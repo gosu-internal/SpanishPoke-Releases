@@ -1,0 +1,13 @@
+{
+  "versionCode": 100050,
+  "versionName": "0.1.50",
+  "apkUrl": "https://raw.githubusercontent.com/gosu-internal/SpanishPoke-Releases/main/spanishpoke-100050.apk",
+  "sha256": "b8f54bd324859fd5e0f0c26983bb5e566a5a569e4e317160b51fb14cc376953e",
+  "byteSize": 31107316,
+  "minSupportedVersionCode": 100000,
+  "releaseNotes": [
+    "Interpreter tells voices apart: «Слушать» shows only the others, person by person; talking needs no buttons"
+  ],
+  "sourceSha": "71f22918623dc6081578f6b1e94e046493f11c9b",
+  "publishedAt": "2026-11-07T02:48:49Z"
+}
